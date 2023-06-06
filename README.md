@@ -2,7 +2,7 @@
 Gatos adoráveis
 # Projeto Gatos Maravilhosos
 
-![Gato fofo](gato.jpg)
+![Gato fofo] imagem aqui
 
 Projeto Gatos Maravilhosos é uma aplicação web que exibe uma galeria de fotos de gatos incríveis. Os usuários podem explorar diferentes raças de gatos, ver fotos adoráveis e aprender curiosidades sobre essas criaturas adoráveis.
 
